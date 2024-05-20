@@ -17,6 +17,11 @@ Managing projects effectively requires well-organized documentation and processe
 3. Business case template
 4. IT strategy
 5. Project charter
+6. Project Management plan
+7. Risk Management plan
+8. Toot cause analysis
+10. Scope management plan
+11. Work breakdown structure.
 
 ## Contributing
 Feel free to add more sections or tailor the content to match your repository’s style. Happy project management! 🚀📊
